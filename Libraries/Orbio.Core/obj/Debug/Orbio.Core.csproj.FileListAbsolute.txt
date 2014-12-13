@@ -1,0 +1,12 @@
+F:\Excercises\Rakesh\Branch\Ecomm\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.dll
+F:\Excercises\Rakesh\Branch\Ecomm\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.pdb
+F:\Excercises\Rakesh\Branch\Ecomm\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.dll
+F:\Excercises\Rakesh\Branch\Ecomm\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.pdb
+F:\Excercises\Rakesh\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.dll
+F:\Excercises\Rakesh\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.pdb
+F:\Excercises\Rakesh\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.dll
+F:\Excercises\Rakesh\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.pdb
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.dll
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Debug\Orbio.Core.pdb
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.dll
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Debug\Orbio.Core.pdb

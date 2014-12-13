@@ -1,0 +1,4 @@
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Release\Orbio.Core.dll
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\bin\Release\Orbio.Core.pdb
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Release\Orbio.Core.dll
+D:\Backup from C Drive\branch\Branch\Ecomm\Dev\Code\EsyBuy_Source_V4\Libraries\Orbio.Core\obj\Release\Orbio.Core.pdb
